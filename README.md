@@ -12,8 +12,8 @@ To execute the program, compile the Poker CPP file to create an executable. Then
 
 ## Authors
 
-Garrett Vukovich
-garrettvukovich@gmail.com
+Name: Garrett Vukovich
+Email: garrettvukovich@gmail.com
 
 ## Version History
 
